@@ -1,0 +1,1 @@
+flow --model cfg/tiny-yolo-voc-1c.cfg --load bin/tiny-yolo-voc.weights --train --annotation train/annotation --dataset train/images
